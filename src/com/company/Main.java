@@ -7,6 +7,7 @@ public class Main {
 
         String a="habibi";
         System.out.println(a);
+        System.out.println("new second  commit from intellij");
         Thread.sleep(2000);
     }
 }
